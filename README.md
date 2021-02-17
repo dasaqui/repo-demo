@@ -1,2 +1,4 @@
 # repo-demo
-este repositorio sirve para aprender a usar Git. Aquí vamos a tener código en R
+este repositorio sirve para aprender a usar Git. Aquí vamos a tener código en R.
+
+también contiene codigo en Python 
